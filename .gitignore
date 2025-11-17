@@ -1,0 +1,64 @@
+# --------------------
+# Python
+# --------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pickle
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Byte-compiled / optimized
+*.so
+
+# --------------------
+# Jupyter Notebook
+# --------------------
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# If you want to track sample small CSVs, remove the above
+
+# --------------------
+# Logs
+# --------------------
+*.log
+
+# --------------------
+# OS / Editor files
+# --------------------
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+.history/
+
+# PyCharm
+.idea/
+
+# --------------------
+# Environment / Dependency
+# --------------------
+*.egg-info/
+*.egg
+dist/
+build/
+
+# --------------------
+# Cache
+# --------------------
+.cache/
+*.cache
+pip-wheel-metadata/
+
+# --------------------
+# Dask / Arrow temp files
+# --------------------
+dask-worker-space/
+*.arrow
