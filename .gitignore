@@ -20,9 +20,7 @@ env/
 # Jupyter Notebook
 # --------------------
 .ipynb_checkpoints/
-*.ipynb_checkpoints
-
-# If you want to track sample small CSVs, remove the above
+*.ipynb_checkpoint
 
 # --------------------
 # Logs
